@@ -1,8 +1,8 @@
-# PD-design - Software Product Design Full-Process Skill
+# Product-design - Software Product Design Full-Process Skill
 
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
-PD-design is an automated software product design full-process tool that starts from requirement input and sequentially executes requirement cleaning, functional design, prototype generation, PRD generation, and summary, forming a complete product design closed-loop.
+Product-design is an automated software product design full-process tool that starts from requirement input and sequentially executes requirement cleaning, functional design, prototype generation, PRD generation, 和 summary, forming a complete product design closed-loop.
 
 ## Features
 
