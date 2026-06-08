@@ -1,4 +1,4 @@
-# PD-design - 软件产品设计全流程 Skill
+# Product-design - 软件产品设计全流程 Skill
 
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
